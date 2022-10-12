@@ -1,2 +1,2 @@
 # treasury_direct_password_autofill
-Allow autofilling passwords on Treasury Direct
+Allow autofilling/pasting passwords into Treasury Direct
